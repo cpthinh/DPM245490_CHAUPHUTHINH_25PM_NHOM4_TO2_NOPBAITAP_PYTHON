@@ -1,4 +1,4 @@
-# Tinhs gio phut giay
+# Tinh gio phut giay
 '''
 Yeu cau: Nhập vào số giây bất kỳ t. Tính và xuất ra dạng
 Giờ:Phút:Giây
